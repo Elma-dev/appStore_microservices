@@ -10,3 +10,6 @@
 [submodule "Gateway_Service_Spring"]
 	path = Gateway_Service_Spring
 	url = https://github.com/Elma-dev/Gateway_Service_Spring.git
+[submodule "Eureka_Discovery"]
+	path = Eureka_Discovery
+	url = https://github.com/Elma-dev/Eureka_Discovery.git
