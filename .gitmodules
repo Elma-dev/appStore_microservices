@@ -4,3 +4,6 @@
 [submodule "Inventory_MicroService_Spring"]
 	path = Inventory_MicroService_Spring
 	url = https://github.com/Elma-dev/Inventory_MicroService_Spring.git
+[submodule "Billing_MicroService_Spring"]
+	path = Billing_MicroService_Spring
+	url = https://github.com/Elma-dev/Billing_MicroService_Spring.git
