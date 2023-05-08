@@ -13,3 +13,6 @@
 [submodule "Eureka_Discovery"]
 	path = Eureka_Discovery
 	url = https://github.com/Elma-dev/Eureka_Discovery.git
+[submodule "storeApp_front"]
+	path = storeApp_front
+	url = https://github.com/Elma-dev/storeApp_front.git
